@@ -20,9 +20,11 @@ html {
   --background: #F6FAFF;
   --overlay: #040911;
   --icons-details: #A5B0C1;
+
   --grey-dark: #4D5E77;
   --grey-blue: #A1B2CD;
   --grey-light: #E5EAF1;
+  --grey-medium: #eaecf2;
   /*-------- Fonts ---------*/
   /* 1rem = 16px = 100% >>>  62.5% = 10px  dessa forma só é fazer divisoes por 10 ao invés de 16*/
   font-size: 62.5%;
