@@ -1,0 +1,16 @@
+{
+  "name": "nlw-together-discover",
+  "version": "1.0.0",
+  "description": "Projeto destinado para resposta de perguntas anônimas enviadas para o dono da página.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "José Ronaldo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
